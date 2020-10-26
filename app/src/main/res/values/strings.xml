@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplikasi Pembukuan</string>
+
+    <string name="barang">Barang</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="harga">Harga</string>
+    <string name="total">Total</string>
+    <string name="tgl_pengeluaran">Tanggal Pengeluaran</string>
+    <string name="submit">Submit</string>
+    <string name="hapus">Hapus</string>
+</resources>
